@@ -4,6 +4,8 @@ This is a script to display the internet quota usage of the student dormitories
 (Wohnheim) of the Technische Universität Kaiserslautern in the Ubuntu/Gnome
 topbar.
 
+![](example1.png)
+
 ## How to use
 
 1. Install the [argos gnome extension](https://github.com/p-e-w/argos)
